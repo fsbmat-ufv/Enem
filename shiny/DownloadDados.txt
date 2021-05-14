@@ -1,0 +1,6 @@
+Para gerar o shiny dashboard faça o download 
+dos arquivos da pasta shiny deste repositório 
+e acrescente dentro da pasta o arquivo dados2018.Rds 
+que pode ser encontrado no link abaixo:
+
+https://drive.google.com/file/d/1JkzOCRgeJRwim323Ue9DoJYpNCad9UjQ/view?usp=sharing
